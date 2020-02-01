@@ -1,4 +1,4 @@
-__author__ = "Benedek Rozemberczki"
-__maintainer__ = "Benedek Rozemberczki"
-__email__ = "benedek.rozemberczki@gmail.com"
+__author__ = "Omer Acar"
+__maintainer__ = "Omer Acar"
+__email__ = "mromeracar@gmail.com"
 __status__ = "Production"
